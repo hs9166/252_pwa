@@ -7,7 +7,7 @@ if ('serviceWorker' in navigator) {
   
   // Fetch and display activities
   async function loadActivities() {
-    const response = await fetch('/~hs9166/iste252/PWA/activityData.json');
+    const response = await fetch('/~hs9166/iste252/PWA/activityData.JSON');
     const data = await response.json();
     displayActivities(data.locations);
   }
