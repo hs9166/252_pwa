@@ -1,0 +1,218 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "George Eastman Museum",
+        "location": "Rochester, NY",
+        "address": "900 East Ave, Rochester, NY 14607",
+        "imageUrl": "https://example.com/george-eastman-museum.jpg",
+        "rating": 4.7,
+        "reviews": 12,
+        "duration": "1-2 hours",
+        "price": "$15/person",
+        "description": "The George Eastman Museum offers a unique experience exploring photography and film in the historic home of George Eastman.",
+        "recommendedFor": ["Adults", "Teens"],
+        "included": ["Guided tour", "Museum entry"],
+        "accessibility": {
+          "wheelchairAccessible": true,
+          "assistiveListeningDevices": false,
+          "braille": true
+        },
+        "activityDetails": {
+          "whatYoullDo": "Explore the museum and enjoy the exhibitions showcasing photography, film, and the history of George Eastman.",
+          "whatsIncluded": "Entry ticket, guided tour.",
+          "reviews": [
+            {
+              "username": "User1",
+              "rating": 5,
+              "comment": "Amazing place with beautiful exhibits!"
+            },
+            {
+              "username": "User2",
+              "rating": 4,
+              "comment": "Great experience but could use more accessibility options."
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "George Eastman Museum",
+        "location": "Rochester, NY",
+        "address": "900 East Ave, Rochester, NY 14607",
+        "imageUrl": "https://example.com/george-eastman-museum.jpg",
+        "rating": 4.7,
+        "reviews": 12,
+        "duration": "1-2 hours",
+        "price": "$15/person",
+        "description": "The George Eastman Museum offers a unique experience exploring photography and film in the historic home of George Eastman.",
+        "recommendedFor": ["Adults", "Teens"],
+        "included": ["Guided tour", "Museum entry"],
+        "accessibility": {
+          "wheelchairAccessible": true,
+          "assistiveListeningDevices": false,
+          "braille": true
+        },
+        "activityDetails": {
+          "whatYoullDo": "Explore the museum and enjoy the exhibitions showcasing photography, film, and the history of George Eastman.",
+          "whatsIncluded": "Entry ticket, guided tour.",
+          "reviews": [
+            {
+              "username": "User1",
+              "rating": 5,
+              "comment": "Amazing place with beautiful exhibits!"
+            },
+            {
+              "username": "User2",
+              "rating": 4,
+              "comment": "Great experience but could use more accessibility options."
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "name": "George Eastman Museum",
+        "location": "Rochester, NY",
+        "address": "900 East Ave, Rochester, NY 14607",
+        "imageUrl": "https://example.com/george-eastman-museum.jpg",
+        "rating": 4.7,
+        "reviews": 12,
+        "duration": "1-2 hours",
+        "price": "$15/person",
+        "description": "The George Eastman Museum offers a unique experience exploring photography and film in the historic home of George Eastman.",
+        "recommendedFor": ["Adults", "Teens"],
+        "included": ["Guided tour", "Museum entry"],
+        "accessibility": {
+          "wheelchairAccessible": true,
+          "assistiveListeningDevices": false,
+          "braille": true
+        },
+        "activityDetails": {
+          "whatYoullDo": "Explore the museum and enjoy the exhibitions showcasing photography, film, and the history of George Eastman.",
+          "whatsIncluded": "Entry ticket, guided tour.",
+          "reviews": [
+            {
+              "username": "User1",
+              "rating": 5,
+              "comment": "Amazing place with beautiful exhibits!"
+            },
+            {
+              "username": "User2",
+              "rating": 4,
+              "comment": "Great experience but could use more accessibility options."
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "George Eastman Museum",
+        "location": "Rochester, NY",
+        "address": "900 East Ave, Rochester, NY 14607",
+        "imageUrl": "https://example.com/george-eastman-museum.jpg",
+        "rating": 4.7,
+        "reviews": 12,
+        "duration": "1-2 hours",
+        "price": "$15/person",
+        "description": "The George Eastman Museum offers a unique experience exploring photography and film in the historic home of George Eastman.",
+        "recommendedFor": ["Adults", "Teens"],
+        "included": ["Guided tour", "Museum entry"],
+        "accessibility": {
+          "wheelchairAccessible": true,
+          "assistiveListeningDevices": false,
+          "braille": true
+        },
+        "activityDetails": {
+          "whatYoullDo": "Explore the museum and enjoy the exhibitions showcasing photography, film, and the history of George Eastman.",
+          "whatsIncluded": "Entry ticket, guided tour.",
+          "reviews": [
+            {
+              "username": "User1",
+              "rating": 5,
+              "comment": "Amazing place with beautiful exhibits!"
+            },
+            {
+              "username": "User2",
+              "rating": 4,
+              "comment": "Great experience but could use more accessibility options."
+            }
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "name": "George Eastman Museum",
+        "location": "Rochester, NY",
+        "address": "900 East Ave, Rochester, NY 14607",
+        "imageUrl": "https://example.com/george-eastman-museum.jpg",
+        "rating": 4.7,
+        "reviews": 12,
+        "duration": "1-2 hours",
+        "price": "$15/person",
+        "description": "The George Eastman Museum offers a unique experience exploring photography and film in the historic home of George Eastman.",
+        "recommendedFor": ["Adults", "Teens"],
+        "included": ["Guided tour", "Museum entry"],
+        "accessibility": {
+          "wheelchairAccessible": true,
+          "assistiveListeningDevices": false,
+          "braille": true
+        },
+        "activityDetails": {
+          "whatYoullDo": "Explore the museum and enjoy the exhibitions showcasing photography, film, and the history of George Eastman.",
+          "whatsIncluded": "Entry ticket, guided tour.",
+          "reviews": [
+            {
+              "username": "User1",
+              "rating": 5,
+              "comment": "Amazing place with beautiful exhibits!"
+            },
+            {
+              "username": "User2",
+              "rating": 4,
+              "comment": "Great experience but could use more accessibility options."
+            }
+          ]
+        }
+      },
+      {
+        "id": 1,
+        "name": "George Eastman Museum",
+        "location": "Rochester, NY",
+        "address": "900 East Ave, Rochester, NY 14607",
+        "imageUrl": "https://example.com/george-eastman-museum.jpg",
+        "rating": 4.7,
+        "reviews": 12,
+        "duration": "1-2 hours",
+        "price": "$15/person",
+        "description": "The George Eastman Museum offers a unique experience exploring photography and film in the historic home of George Eastman.",
+        "recommendedFor": ["Adults", "Teens"],
+        "included": ["Guided tour", "Museum entry"],
+        "accessibility": {
+          "wheelchairAccessible": true,
+          "assistiveListeningDevices": false,
+          "braille": true
+        },
+        "activityDetails": {
+          "whatYoullDo": "Explore the museum and enjoy the exhibitions showcasing photography, film, and the history of George Eastman.",
+          "whatsIncluded": "Entry ticket, guided tour.",
+          "reviews": [
+            {
+              "username": "User1",
+              "rating": 5,
+              "comment": "Amazing place with beautiful exhibits!"
+            },
+            {
+              "username": "User2",
+              "rating": 4,
+              "comment": "Great experience but could use more accessibility options."
+            }
+          ]
+        }
+      },
+      {
+        
+      }
+    ]
+  }
+  
