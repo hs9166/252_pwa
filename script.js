@@ -1,13 +1,13 @@
 // Register service worker
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js').then(reg => {
+    navigator.serviceWorker.register('/~hs9166/iste252/PWA/sw.js').then(reg => {
       console.log('Service Worker Registered');
     });
   }
   
   // Fetch and display activities
   async function loadActivities() {
-    const response = await fetch('/activityData.json');
+    const response = await fetch('/~hs9166/iste252/PWA/activityData.json');
     const data = await response.json();
     displayActivities(data.locations);
   }
