@@ -34,7 +34,7 @@ if ('serviceWorker' in navigator) {
   
   // View activity details
   function viewDetail(id) {
-    fetch('/activityData.json').then(response => response.json()).then(data => {
+    fetch('/~hs9166/iste252/PWA/activityData.json').then(response => response.json()).then(data => {
       const activity = data.locations.find(act => act.id === id);
       const detail = document.getElementById('detail-content');
       detail.innerHTML = `
@@ -76,7 +76,7 @@ if ('serviceWorker' in navigator) {
   // Show favorite activities
   function showFavorites() {
     const favorites = JSON.parse(localStorage.getItem('favorites') || '[]');
-    fetch('/activityData.json').then(response => response.json()).then(data => {
+    fetch('/~hs9166/iste252/PWA/activityData.json').then(response => response.json()).then(data => {
       displayActivities(data.locations.filter(activity => favorites.includes(activity.id)));
     });
   }
