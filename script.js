@@ -62,7 +62,7 @@ if ('serviceWorker' in navigator) {
     document.getElementById('activity-detail').classList.add('hidden');
   }
   
-  // Toggle favorite
+  // Favorite an activity 
   function toggleFavorite(id) {
     let favorites = JSON.parse(localStorage.getItem('favorites') || '[]');
     if (favorites.includes(id)) {

@@ -2,11 +2,11 @@ self.addEventListener('install', event => {
     event.waitUntil(
       caches.open('activity-cache').then(cache => {
         return cache.addAll([
-          '/',
-          '/index.html',
-          '/styles.css',
-          '/script.js',
-          '/activityData.json'
+          '/~hs9166/iste252/PWA/',
+          '/~hs9166/iste252/PWA/index.html',
+          '/~hs9166/iste252/PWA/styles.css',
+          '/~hs9166/iste252/PWA/script.js',
+          '/~hs9166/iste252/PWA/activityData.json'
         ]);
       })
     );
